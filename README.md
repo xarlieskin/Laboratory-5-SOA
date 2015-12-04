@@ -13,7 +13,7 @@ Jorge Cáncer Gil | 646122
 Iñigo Alonso Ruiz | 665959 
 Ismael Rodríguez Hernández | 587429 
 Jorge Martinez Lascorz | 571735 
-David Nicuesa Aranda | 653224 
+David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-5-SOA) 
 Eduardo Ibanez | 528074 
 Sergio Soro Miranda | 671250 
 Alberto Álvarez Aldea | 681687 
