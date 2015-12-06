@@ -12,7 +12,7 @@ Marcos Canales Mayo | 467716
 Jorge Cáncer Gil | 646122 | [repo](https://github.com/jorcox/Laboratory-5-SOA)
 Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/Laboratory-5-SOA)
 Ismael Rodríguez Hernández | 587429 | [repo](https://github.com/ismaro3/Laboratory-5-SOA)
-Jorge Martinez Lascorz | 571735
+Jorge Martinez Lascorz | 571735 | [repo](https://github.com/JorgeCoke/Laboratory-5-SOA)
 David Nicuesa Aranda | 653224 | [repo](https://github.com/Nicu1309/Laboratory-5-SOA)
 Eduardo Ibanez | 528074
 Sergio Soro Miranda | 671250
